@@ -132,3 +132,5 @@ frontend/graphify-out/
 .env
 .env.*
 !.env.example
+
+.npm-cache/
