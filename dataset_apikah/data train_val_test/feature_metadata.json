@@ -80,9 +80,7 @@
         "is_dry_day"
     ],
     "target_binary_current": "ada_api",
-    "target_binary_lead1": "target_lead1",
-    "target_binary_lead2": "target_lead2",
-    "target_binary_lead3": "target_lead3",
+    "target_binary_weekly": "target_pekan",
     "target_multiclass": "risk_class",
     "format": "csv"
 }
