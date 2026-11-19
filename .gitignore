@@ -12,7 +12,6 @@ venv/
 
 # Large Dataset Files (>100MB limit GitHub)
 dataset_apikah/dataset_utama_apikah.csv
-dataset_apikah/data train_val_test/train_preprocessed.csv
 dataset_apikah/data training_iklim/
 
 # OS specific
